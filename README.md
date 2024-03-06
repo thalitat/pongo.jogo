@@ -7,3 +7,6 @@ Pongo é um jogo clássico inspirado no famoso Pong, onde dois jogadores control
 Participar deste projeto foi uma experiência enriquecedora, onde pude aprimorar minhas habilidades em programação e trabalhar em equipe com outras desenvolvedoras. Além disso, foi uma oportunidade única de aprender sobre desenvolvimento de jogos e explorar as funcionalidades oferecidas pela biblioteca p5.js.
 
 
+Feito 2022
+
+
